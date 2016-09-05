@@ -1,3 +1,5 @@
 # ClojureBridge Pittsburgh presentations
 
-An intro &amp; outro presentation to welcome attendees and thank the voluteers &amp; sponsors
+##September 9th - 10th, 2016
+
+An intro presentation to welcome attendees and thank our volunteers and sponsors.
