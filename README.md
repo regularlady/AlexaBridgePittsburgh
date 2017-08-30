@@ -1,5 +1,5 @@
-# ClojureBridge Pittsburgh presentations
+# AlexaBridge Pittsburgh Presentation + Workshop
 
-##September 9th - 10th, 2016
+##September 16th & 23rd, 2017
 
-An intro presentation to welcome attendees and thank our volunteers and sponsors.
+An intro presentation to welcome attendees, thank our volunteers and sponsors and link to the workshop material. 
